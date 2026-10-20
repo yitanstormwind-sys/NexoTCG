@@ -1,0 +1,489 @@
+X (Mega Man X) - Etapa: Básica / Inicial
+
+X Armadura Falcon (Mega Man X) - Etapa: Evolución / Fase Intermedia
+
+X Armadura Definitiva (Mega Man X) - Etapa: Forma Final / Máximo Despertar
+
+Zero (Mega Man X) - Etapa: Básica / Inicial
+
+Omega Zero (Mega Man X) - Etapa: Evolución / Fase Intermedia
+
+Jin Kazama (Tekken) - Etapa: Básica / Inicial
+
+Devil Jin (Tekken) - Etapa: Evolución / Fase Intermedia
+
+Kazuya Mishima (Tekken) - Etapa: Básica / Inicial
+
+Kazuya Mishima Gen Diablo (Tekken) - Etapa: Evolución / Fase Intermedia
+
+Kazuya Mishima Demonio Pleno (Tekken) - Etapa: Forma Final / Máximo Despertar
+
+Hwoarang (Tekken) - Etapa: Básica / Inicial
+
+Yoshimitsu (Tekken) - Etapa: Básica / Inicial
+
+Dio Brando (JoJo's Bizarre Adventure) - Etapa: Básica / Inicial
+
+Dio Brando Vampiro (JoJo's Bizarre Adventure) - Etapa: Evolución / Fase Intermedia
+
+DIO "The World" (JoJo's Bizarre Adventure) - Etapa: Forma Final / Máximo Despertar
+
+Joseph Joestar (JoJo's Bizarre Adventure) - Etapa: Básica / Inicial
+
+Joseph Joestar Hermit Purple (JoJo's Bizarre Adventure) - Etapa: Evolución / Fase Intermedia
+
+Giorno Giovanna (JoJo's Bizarre Adventure) - Etapa: Básica / Inicial
+
+Giorno Giovanna Gold Experience (JoJo's Bizarre Adventure) - Etapa: Evolución / Fase Intermedia
+
+Gold Experience Requiem (JoJo's Bizarre Adventure) - Etapa: Forma Final / Máximo Despertar
+
+Jolyne Kujo (JoJo's Bizarre Adventure) - Etapa: Básica / Inicial
+
+Jolyne Kujo Stone Free (JoJo's Bizarre Adventure) - Etapa: Evolución / Fase Intermedia
+
+Josuke Higashikata (JoJo's Bizarre Adventure) - Etapa: Básica / Inicial
+
+Josuke Higashikata Crazy Diamond (JoJo's Bizarre Adventure) - Etapa: Evolución / Fase Intermedia
+
+Kira Yoshikage (JoJo's Bizarre Adventure) - Etapa: Básica / Inicial
+
+Vinegar Doppio (JoJo's Bizarre Adventure) - Etapa: Básica / Inicial
+
+Diavolo (JoJo's Bizarre Adventure) - Etapa: Evolución / Fase Intermedia
+
+Kazuki Muto (Busou Renkin) - Etapa: Básica / Inicial
+
+Gai Shishioh Piloto de GaoGaiGar (GaoGaiGar) - Etapa: Básica / Inicial
+
+Gai Shishioh Piloto del Genesic GaoGaiGar (GaoGaiGar) - Etapa: Evolución / Fase Intermedia
+
+Koji Kabuto Piloto del Mazinger Z (Mazinger) - Etapa: Básica / Inicial
+
+Koji Kabuto Piloto del Mazinkaiser (Mazinger) - Etapa: Evolución / Fase Intermedia
+
+Sayaka Yumi Piloto del Aphrodite A (Mazinger) - Etapa: Básica / Inicial
+
+Sayaka Yumi Piloto del Venus A (Mazinger) - Etapa: Forma Final / Máximo Despertar
+
+Seiya (Saint Seiya) - Etapa: Básica / Inicial
+
+Seiya Armadura de Oro de Sagitario (Saint Seiya) - Etapa: Evolución / Fase Intermedia
+
+Seiya Armadura Divina de Pegaso (Saint Seiya) - Etapa: Forma Final / Máximo Despertar
+
+Alphonse Elric (Fullmetal Alchemist) - Etapa: Básica / Inicial
+
+Roy Mustang (Fullmetal Alchemist) - Etapa: Básica / Inicial
+
+Yitan Tribal (Final Fantasy) - Etapa: Básica / Inicial
+
+Yitan Tribal Trance (Final Fantasy) - Etapa: Evolución / Fase Intermedia
+
+Garnet (Final Fantasy) - Etapa: Básica / Inicial
+
+Garnet Trance (Final Fantasy) - Etapa: Evolución / Fase Intermedia
+
+Vivi Ornitier (Final Fantasy) - Etapa: Básica / Inicial
+
+Vivi Ornitier Trance (Final Fantasy) - Etapa: Evolución / Fase Intermedia
+
+Cloud Strife (Final Fantasy) - Etapa: Básica / Inicial
+
+Sephiroth (Final Fantasy) - Etapa: Básica / Inicial
+
+Sephiroth Jenova (Final Fantasy) - Etapa: Evolución / Fase Intermedia
+
+Sephiroth Ascendido (Final Fantasy) - Etapa: Forma Final / Máximo Despertar
+
+Vincent Valentine (Final Fantasy) - Etapa: Básica / Inicial
+
+Vincent Valentine Galian Beast (Final Fantasy) - Etapa: Evolución / Fase Intermedia
+
+Vincent Valentine Chaos (Final Fantasy) - Etapa: Forma Final / Máximo Despertar
+
+Cait Sith (Final Fantasy) - Etapa: Básica / Inicial
+
+Tifa Lockhart (Final Fantasy) - Etapa: Básica / Inicial
+
+Sora (Kingdom Hearts) - Etapa: Básica / Inicial
+
+Sora Forma Maestra (Kingdom Hearts) - Etapa: Evolución / Fase Intermedia
+
+Sora Forma Definitiva (Kingdom Hearts) - Etapa: Forma Final / Máximo Despertar
+
+Riku (Kingdom Hearts) - Etapa: Básica / Inicial
+
+Riku Posesión de Ansem (Kingdom Hearts) - Etapa: Evolución / Fase Intermedia
+
+Riku Maestro de la Llave Espada (Kingdom Hearts) - Etapa: Forma Final / Máximo Despertar
+
+Kairi (Kingdom Hearts) - Etapa: Básica / Inicial
+
+Ansem Buscador de la Oscuridad (Kingdom Hearts) - Etapa: Básica / Inicial
+
+Ansem Guardián del Corazón (Kingdom Hearts) - Etapa: Evolución / Fase Intermedia
+
+Xemnas (Kingdom Hearts) - Etapa: Básica / Inicial
+
+Xemnas Rey de los Incorporeos (Kingdom Hearts) - Etapa: Evolución / Fase Intermedia
+
+Xemnas Armadura del Vacío (Kingdom Hearts) - Etapa: Forma Final / Máximo Despertar
+
+Roxas (Kingdom Hearts) - Etapa: Básica / Inicial
+
+Roxas Doble Llave Espada (Kingdom Hearts) - Etapa: Evolución / Fase Intermedia
+
+Roxas Corazón Propio (Kingdom Hearts) - Etapa: Forma Final / Máximo Despertar
+
+Goku GT (Dragon Ball) - Etapa: Básica / Inicial
+
+Goku GT Super Saiyan (Dragon Ball) - Etapa: Evolución / Fase Intermedia
+
+Goku GT Super Saiyan 4 (Dragon Ball) - Etapa: Forma Final / Máximo Despertar
+
+Trunks (Dragon Ball) - Etapa: Básica / Inicial
+
+Trunks Super Saiyan (Dragon Ball) - Etapa: Evolución / Fase Intermedia
+
+Gohan (Dragon Ball) - Etapa: Básica / Inicial
+
+Gohan Super Saiyan 2 (Dragon Ball) - Etapa: Evolución / Fase Intermedia
+
+Gohan Poder Definitivo (Dragon Ball) - Etapa: Forma Final / Máximo Despertar
+
+Pan (Dragon Ball) - Etapa: Básica / Inicial
+
+Zoro (One Piece) - Etapa: Básica / Inicial
+
+Zoro Ashura (One Piece) - Etapa: Evolución / Fase Intermedia
+
+Zoro Rey del Infierno (One Piece) - Etapa: Forma Final / Máximo Despertar
+
+Sanji (One Piece) - Etapa: Básica / Inicial
+
+Sanji Soba Mask (One Piece) - Etapa: Evolución / Fase Intermedia
+
+Sanji Ifrit Jambe (One Piece) - Etapa: Forma Final / Máximo Despertar
+
+Nami (One Piece) - Etapa: Básica / Inicial
+
+Nami Clima-Tact (One Piece) - Etapa: Evolución / Fase Intermedia
+
+Nami Portadora de Zeus (One Piece) - Etapa: Forma Final / Máximo Despertar
+
+Chopper (One Piece) - Etapa: Básica / Inicial
+
+Chopper Rumble Ball (One Piece) - Etapa: Evolución / Fase Intermedia
+
+Chopper Monster Point (One Piece) - Etapa: Forma Final / Máximo Despertar
+
+Usopp (One Piece) - Etapa: Básica / Inicial
+
+Usopp Sogeking (One Piece) - Etapa: Evolución / Fase Intermedia
+
+Usopp Dios de los Francotiradores (One Piece) - Etapa: Forma Final / Máximo Despertar
+
+Lelouch Lamperouge (Code Geass) - Etapa: Básica / Inicial
+
+Zero (Code Geass) - Etapa: Evolución / Fase Intermedia
+
+Lelouch vi Britannia Emperador de Britannia (Code Geass) - Etapa: Forma Final / Máximo Despertar
+
+Suzaku Kururugi (Code Geass) - Etapa: Básica / Inicial
+
+Suzaku Kururugi Caballero (Code Geass) - Etapa: Evolución / Fase Intermedia
+
+Lina Inverse (Slayers) - Etapa: Básica / Inicial
+
+Gourry Gabriev (Slayers) - Etapa: Básica / Inicial
+
+Sasuke (Naruto) - Etapa: Básica / Inicial
+
+Sasuke Sello Maldito Nivel 2 (Naruto) - Etapa: Evolución / Fase Intermedia
+
+Sasuke Rinnegan (Naruto) - Etapa: Forma Final / Máximo Despertar
+
+Sakura (Naruto) - Etapa: Básica / Inicial
+
+Sakura Discípula de Tsunade (Naruto) - Etapa: Evolución / Fase Intermedia
+
+Sakura Sello de los Cien (Naruto) - Etapa: Forma Final / Máximo Despertar
+
+Kakashi (Naruto) - Etapa: Básica / Inicial
+
+Kakashi Ninja Copia (Naruto) - Etapa: Evolución / Fase Intermedia
+
+Kakashi Sexto Hokage (Naruto) - Etapa: Forma Final / Máximo Despertar
+
+Monkey D. Luffy (One Piece)
+
+Monkey D. Luffy Gear 4 (One Piece)
+
+Monkey D. Luffy Gear 5 (One Piece)
+
+Naruto Uzumaki (Naruto)
+
+Naruto Modo Sabio (Naruto)
+
+Naruto Baryon (Naruto)
+
+Goku (Dragon Ball Z)
+
+Goku Super Saiyan (Dragon Ball Z)
+
+Goku Ultra instinto (Dragon Ball Z)
+
+Ichigo Kurosaki Shinigami Sustituto (Bleach)
+
+IChigo Bankai (Bleach)
+
+Ichigo Mugetsu (Bleach)
+
+Tanjiro Kamado (Demon Slayer)
+
+Tanjiro Respiración Solar (Demon Slayer)
+
+Phoenix Wright (Ace Attorney) - Etapa: Básica / Inicial
+
+Maya Fey (Ace Attorney) - Etapa: Básica / Inicial
+
+Maya Fey Invocadora (Ace Attorney) - Etapa: Evolución / Fase Intermedia
+
+Maya Fey Maestra Espiritista (Ace Attorney) - Etapa: Forma Final / Máximo Despertar
+
+Pearl Fey (Ace Attorney) - Etapa: Básica / Inicial
+
+Miles Edgeworth (Ace Attorney) - Etapa: Básica / Inicial
+
+Franziska von Karma (Ace Attorney) - Etapa: Básica / Inicial
+
+Apollo Justice (Ace Attorney) - Etapa: Básica / Inicial
+
+Trucy Wright (Ace Attorney) - Etapa: Básica / Inicial
+
+Dante (Devil May Cry) - Etapa: Básica / Inicial
+
+Dante Devil Trigger (Devil May Cry) - Etapa: Evolución / Fase Intermedia
+
+Nero (Devil May Cry) - Etapa: Básica / Inicial
+
+Nero Devil Trigger (Devil May Cry) - Etapa: Evolución / Fase Intermedia
+
+Vergil (Devil May Cry) - Etapa: Básica / Inicial
+
+Lady (Devil May Cry) - Etapa: Básica / Inicial
+
+Trish (Devil May Cry) - Etapa: Básica / Inicial
+
+Akira Fudo (Devilman) - Etapa: Básica / Inicial
+
+Devilman (Devilman) - Etapa: Evolución / Fase Intermedia
+
+Ryo Asuka (Devilman) - Etapa: Básica / Inicial
+
+Ryo Asuka Ángel Caído (Devilman) - Etapa: Evolución / Fase Intermedia
+
+Joker (Persona) - Etapa: Básica / Inicial
+
+Ann Takamaki (Persona) - Etapa: Básica / Inicial
+
+Yu Narukami (Persona) - Etapa: Básica / Inicial
+
+Makoto Yuki (Persona) - Etapa: Básica / Inicial
+
+Asuka Langley (Evangelion) - Etapa: Básica / Inicial
+
+Asuka Langley Piloto del EVA-02 (Evangelion) - Etapa: Evolución / Fase Intermedia
+
+Asuka Langley Unidad 02 Mejorada (Evangelion) - Etapa: Forma Final / Máximo Despertar
+
+Rei Ayanami (Evangelion) - Etapa: Básica / Inicial
+
+Rei Ayanami Tercera Réplica (Evangelion) - Etapa: Evolución / Fase Intermedia
+
+Rei Ayanami Lilith Despierta (Evangelion) - Etapa: Forma Final / Máximo Despertar
+
+Kaworu Nagisa (Evangelion) - Etapa: Básica / Inicial
+
+Kaworu Nagisa El Ángel Tabris (Evangelion) - Etapa: Evolución / Fase Intermedia
+
+Kaworu Nagisa Piloto del EVA-13 (Evangelion) - Etapa: Forma Final / Máximo Despertar
+
+Guts (Berserk)
+
+Guts Halcón Dorado (Berserk)
+
+Guts con Armadura Berserker (Berserk)
+
+Light Yagami (Death Note)
+
+Ken Kaneki (Tokyo Ghoul)
+
+Eren Jaeger (Attack on Titan)
+
+Eren Titán de Ataque (Attack on Titan)
+
+Eren Titán Fundador: El Retumbar (Attack on Titan)
+
+Madoka (Madoka Magica)
+
+Madoka Despertar Milagroso (Madoka Magica)
+
+Diosa Madoka Suprema (Madoka Magica)
+
+Motoko Kusanagi (Ghost in the Shell)
+
+Motoko Inmersión en la Red (Ghost in the Shell)
+
+Jotaro Kujo (JoJo's Bizarre Adventure)
+
+Jotaro Star Platinum (JoJo's Bizarre Adventure)
+
+Shinji Ikari (Neon Genesis Evangelion)
+
+EVA-01 Modo Berserk (Neon Genesis Evangelion)
+
+Saitama (One Punch Man)
+
+Honey Kisaragi (Cutie Honey) - Etapa: Básica / Inicial
+
+Cutie Honey (Cutie Honey) - Etapa: Evolución / Fase Intermedia
+
+Yui Hirasawa (K-On) - Etapa: Básica / Inicial
+
+Mio Akiyama (K-On) - Etapa: Básica / Inicial
+
+Ritsu Tainaka (K-On) - Etapa: Básica / Inicial
+
+Tsumugi Kotobuki (K-On) - Etapa: Básica / Inicial
+
+Azusa Nakano (K-On) - Etapa: Básica / Inicial
+
+Candy (Candy Candy) - Etapa: Básica / Inicial
+
+Candy Aprendiz del Hogar Pony (Candy Candy) - Etapa: Evolución / Fase Intermedia
+
+Terry Grandchester (Candy Candy) - Etapa: Básica / Inicial
+
+Terry Grandchester Actor de Teatro (Candy Candy) - Etapa: Evolución / Fase Intermedia
+
+Usagi Tsukino (Sailor Moon)
+
+Sailor Moon Cetro Lunar (Sailor Moon)
+
+Princesa Serenity (Sailor Moon)
+
+Sakura Cazadora de Cartas (Cardcaptor Sakura)
+
+Sakura Maestra Clear Card (Cardcaptor Sakura)
+
+Ebichu (Ebichu) - Etapa: Básica / Inicial
+
+Kazuma Kiryu (Yakuza) - Etapa: Básica / Inicial
+
+Kazuma Kiryu Cuarto Chairman del Clan Tojo (Yakuza) - Etapa: Evolución / Fase Intermedia
+
+Kazuma Kiryu Leyenda de Kamurocho (Yakuza) - Etapa: Forma Final / Máximo Despertar
+
+Goro Majima (Yakuza) - Etapa: Básica / Inicial
+
+Goro Majima Perro Rabioso de Shimano (Yakuza) - Etapa: Evolución / Fase Intermedia
+
+Goro Majima Patriarca de la Construcción (Yakuza) - Etapa: Forma Final / Máximo Despertar
+
+Ichiban Kasuga (Yakuza) - Etapa: Básica / Inicial
+
+Ichiban Kasuga Héroe de Ijincho (Yakuza) - Etapa: Evolución / Fase Intermedia
+
+Ichiban Kasuga Soñador Imparable (Yakuza) - Etapa: Forma Final / Máximo Despertar
+
+Eikichi Onizuka (GTO) - Etapa: Básica / Inicial
+
+Nana Osaki (NANA)
+
+Nana Osaki Maestra del Punk (NANA)
+
+Nana Reina del Rock (NANA)
+
+Megumi Noda (Nodame Cantabile)
+
+Nodame Concierto Filarmónico (Nodame Cantabile)
+
+Nodame & Chiaki Sinfonía de Amor (Nodame Cantabile)
+
+Red (Pokémon) - Etapa: Básica / Inicial
+
+Blue (Pokémon) - Etapa: Básica / Inicial
+
+Riolu (Pokémon) - Etapa: Básica / Inicial
+
+Lucario (Pokémon) - Etapa: Evolución / Fase Intermedia
+
+Mega Lucario (Pokémon) - Etapa: Forma Final / Máximo Despertar
+
+Brock (Pokémon) - Etapa: Básica / Inicial
+
+Misty (Pokémon) - Etapa: Básica / Inicial
+
+Ash Ketchum (Pokémon) - Etapa: Básica / Inicial
+
+Ash Retador de la Liga (Pokémon) - Etapa: Evolución / Fase Intermedia
+
+Ash Campeón del Mundo (Pokémon) - Etapa: Forma Final / Máximo Despertar
+
+Pikachu (Pokémon) - Etapa: Básica / Inicial
+
+Metabee (Medabots) - Etapa: Básica / Inicial
+
+Rokusho (Medabots) - Etapa: Básica / Inicial
+
+Agumon (Digimon) - Etapa: Básica / Inicial
+
+Greymon (Digimon) - Etapa: Evolución / Fase Intermedia
+
+WarGreymon (Digimon) - Etapa: Forma Final / Máximo Despertar
+
+Conan Edogawa (Detective Conan) - Etapa: Básica / Inicial
+
+Conan Gadgets del Profesor (Detective Conan) - Etapa: Evolución / Fase Intermedia
+
+Shinichi Kudo Detective Renacido (Detective Conan) - Etapa: Forma Final / Máximo Despertar
+
+Yugi Muto (Yu-Gi-Oh!) - Etapa: Básica / Inicial
+
+Yami Yugi (Yu-Gi-Oh!) - Etapa: Evolución / Fase Intermedia
+
+Atem Faraón (Yu-Gi-Oh!) - Etapa: Forma Final / Máximo Despertar
+
+Shin-chan (Crayon Shin-chan) - Etapa: Básica / Inicial
+
+Shin-chan Marea de Kasukabe (Crayon Shin-chan) - Etapa: Evolución / Fase Intermedia
+
+Hamtaro (Hamtaro) - Etapa: Básica / Inicial
+
+Hamtaro Capitán Ham-Ham (Hamtaro) - Etapa: Evolución / Fase Intermedia
+
+Jibanyan (Yo-kai Watch) - Etapa: Básica / Inicial
+
+Jibanyan S (Yo-kai Watch) - Etapa: Evolución / Fase Intermedia
+
+Doraemon (Doraemon) - Etapa: Básica / Inicial
+
+Capitán Levi Ackerman (Attack on Titan)
+
+Shin-chan Niño Travieso de Kasukabe (Crayon Shin-chan)
+
+Shin-chan y el Ejército de Kasukabe (Crayon Shin-chan)
+
+Hamtaro Pequeño Aventurero (Hamtaro)
+
+Capitán Hamtaro Navegante (Hamtaro)
+
+Jibanyan Patas de la Furia (Yo-kai Watch)
+
+Jibanyan Bestia de Fuego Fantasmal (Yo-kai Watch)
+
+Pikachu Tacleada de Voltios (Pokémon)
+
+Doraemon Gato Cósmico del Siglo XXII (Doraemon)
